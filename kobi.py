@@ -75,7 +75,8 @@ companies = {
     'Microsoft': 'MSFT',
     'Google': 'GOOGL',
     'Amazon': 'AMZN',
-    'Facebook': 'META'
+    'Facebook': 'FB',
+    'Tesla': 'TSLA'  # New company added here
 }
 
 # User input - Select multiple companies from dropdown
